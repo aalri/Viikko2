@@ -26,7 +26,8 @@ public class Kauppa {
 
     public void poistaKorista(int id) {
         Tuote t = s.haeTuote(id); 
-        s.palautaVarastoon(t);
+        ostoskori.poista(t);
+        s.palautaVarastoon(t);      
     }
 
     public void lisaaKoriin(int id) {
