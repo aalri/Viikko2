@@ -1,0 +1,7 @@
+﻿Johtaminen perinteisissä ja ketterissä ohjelmistotuotantoprojekteissa -referaatti
+
+Projekteja määrittävät seuraavat ominaisuudet: Niillä on ennaltamäärätty tavoite. Niiden rakenteet ovat väliaikaisia. Työllä on selkästi määritelty aloitus ja lopetus ajankohta mitä yritetään noudattaa. Kertaluonteisuus. Rajallinen budjetti. Tekee tiimi. Johtamisessa käytetään joko ohjaavaa tai voimaannuttavaa ohjaamista, joista ensimmäinen soveltuu paremmin kokemattoman tiimin johtamiseen. Tiimin rakenne voi olla joko pääohjelmoijajohtoinen (ohjaava) tai "egoton" tiimi (voimaannuttava) riippuen johtamistavasta.
+
+Perinteisissä ohjelmistoprojekteissa projektipäällikön rooli on ollut suurempi kuin ketterissä ohjelmistoprojekteissa. Ketterissä myös asiakas halutaan osallistuttaa projektin aktiiviseksi jäseneksi. 
+
+Scrumissa johtaminen on jaettua, yleensä tehtävän tai päivän mukaan vaihtuvaa. Scrum master toimii scrumin keskustelujen vetäjänä.
